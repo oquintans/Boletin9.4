@@ -1,6 +1,6 @@
 package ejercicio4;
 
-import static javafx.application.Platform.exit;
+
 import javax.swing.JOptionPane;
 
 /**
